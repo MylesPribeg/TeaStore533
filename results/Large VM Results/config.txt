@@ -1,0 +1,9 @@
+test: 5 loop count
+    short warm-up run before test
+    1,10,100,1000 users
+    10s ramp-up to distribute load
+docker host has 2 cores, 4GB RAM
+
+large has 4 cores, 8gb ram
+
+NUMBER OF NEW USERS 1001

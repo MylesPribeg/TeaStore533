@@ -1,0 +1,43 @@
+Medium Docker 1
+MemTotal:        4009996 kB
+MemFree:          115508 kB
+MemAvailable:     239616 kB
+05:50:15        CPU     %user     %nice   %system   %iowait    %steal     %idle
+05:50:22        all     35.19      0.00      9.31      0.00      0.59     54.91
+
+Medium Docker 10
+MemTotal:        4009996 kB
+MemFree:          123828 kB
+MemAvailable:     236448 kB
+05:47:13        CPU     %user     %nice   %system   %iowait    %steal     %idle
+05:49:43        all     67.10      0.00     15.45      0.00     11.28      6.18
+
+
+
+Medium Docker 100
+MemTotal:        4009996 kB
+MemFree:          191740 kB
+MemAvailable:     251848 kB
+05:55:51        CPU     %user     %nice   %system   %iowait    %steal     %idle
+05:55:58        all     68.94      0.00     15.89      0.00     14.67      0.22
+
+Medium Docker 1000
+MemTotal:        4009996 kB
+MemFree:          129192 kB
+MemAvailable:     124588 kB
+05:57:22        CPU     %user     %nice   %system   %iowait    %steal     %idle
+05:57:32        all     69.30      0.00     15.67      0.00     14.82      0.20
+
+Medium Kubernetes 1
+MemTotal:        4009996 kB
+MemFree:          943200 kB
+MemAvailable:    1577212 kB
+06:22:45        CPU     %user     %nice   %system   %iowait    %steal     %idle
+06:22:55        all     37.47      0.00     10.56     46.79      4.81      0.36
+
+Medium Kubernetes 10
+MemTotal:        4009996 kB
+MemFree:          921396 kB
+MemAvailable:    1529692 kB
+06:24:06        CPU     %user     %nice   %system   %iowait    %steal     %idle
+06:24:36        all     29.08      0.00     12.90     52.50      5.25      0.26

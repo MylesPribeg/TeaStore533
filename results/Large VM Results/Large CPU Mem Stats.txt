@@ -1,0 +1,57 @@
+Large Docker 1
+MemTotal:        8131928 kB
+MemFree:         3067608 kB
+MemAvailable:    4393352 kB
+09:04:30        CPU     %user     %nice   %system   %iowait    %steal     %idle
+09:04:40        all     57.26      0.00      4.00      0.00      2.25     36.48
+
+Large Docker 10
+MemTotal:        8131928 kB
+MemFree:         2913160 kB
+MemAvailable:    4239444 kB
+09:06:44        CPU     %user     %nice   %system   %iowait    %steal     %idle
+09:06:54        all     66.66      0.00     12.72      0.00      7.90     12.72
+
+Large Docker 100
+MemTotal:        8131928 kB
+MemFree:         2731308 kB
+MemAvailable:    4057816 kB
+09:07:44        CPU     %user     %nice   %system   %iowait    %steal     %idle
+09:07:54        all     66.73      0.00     16.90      0.00     13.09      3.28
+
+Large Docker 1000
+MemTotal:        8131928 kB
+MemFree:         2448688 kB
+MemAvailable:    3777404 kB
+09:08:59        CPU     %user     %nice   %system   %iowait    %steal     %idle
+09:09:09        all     63.65      0.00     19.97      0.00     12.52      3.85
+
+
+Large Kube 1
+MemTotal:        8131928 kB
+MemFree:          540900 kB
+MemAvailable:    2106212 kB
+08:57:34        CPU     %user     %nice   %system   %iowait    %steal     %idle
+08:57:44        all     19.52      0.00      9.59      0.03      0.21     70.65
+
+Large Kube 10
+MemTotal:        8131928 kB
+MemFree:          535316 kB
+MemAvailable:    2099644 kB
+08:56:00        CPU     %user     %nice   %system   %iowait    %steal     %idle
+08:56:10        all     48.78      0.00     25.65      0.03      5.41     20.13
+
+
+Large Kube 100
+MemTotal:        8131928 kB
+MemFree:          263500 kB
+MemAvailable:    3143792 kB
+08:17:56        CPU     %user     %nice   %system   %iowait    %steal     %idle
+08:18:06        all     60.41      0.00     21.83      0.00     10.93      6.84
+
+Large Kube 1000 (1 loop, many errors)
+MemTotal:        8131928 kB
+MemFree:          201156 kB
+MemAvailable:    1779944 kB
+08:52:36        CPU     %user     %nice   %system   %iowait    %steal     %idle
+08:52:46        all     53.68      0.00     28.93      0.00     11.17      6.22
